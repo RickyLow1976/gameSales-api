@@ -7,7 +7,7 @@
    https://github.com/RickyLow1976/gameSales-api.git
 2. **Navigate to the project directory:**
    ```bash
-   cd \demo\src\main\java\com\example\demo
+   cd \src\main\java\com\example\demo
 3. **Build the application:**
    ```bash
    ./mvnw clean install
